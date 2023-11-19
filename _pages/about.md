@@ -13,17 +13,18 @@ redirect_from:
 
 # Pedro José Martínez Alanis
 
-[pj.martinez.alanis@gmail.com](mailto:pj.martinez.alanis@gmail.com) • (+52) 55-5403-1937 • 
-[pedrojma.github.io](https://pedrojma.github.io/) • Mexico city, Mexico
+[pj.martinez.alanis@gmail.com](mailto:pj.martinez.alanis@gmail.com) 
+<!-- • (+52) 55-5403-1937 • 
+[pedrojma.github.io](https://pedrojma.github.io/) • Mexico city, Mexico -->
 
-
->  Economist with more than 12 years of experience performing empirical economic analysis for the Mexican federal government and international organizations (WBG, IDB, UNDP) in Mexico and Washington, DC.
+> Hi! welcome to my website. 
+>  I am an economist with more than 12 years of experience performing empirical economic analysis for the Mexican federal government and international organizations (WBG, IDB, UNDP) in Mexico and Washington, DC.
 > 
 > My academic formation encompass two masters degrees in economics, from El Colegio de México and Western University, Canada, and also PhD studies in Economics from Western University and UC Davis. 
 >
-> Extensive experience doing research through the lens of firm-level data from administrative records, economic census and firm surveys in developing countries to estimate productivity, market power, monopsony power, and to quantify misallocation of resources.
+> I have an extensive experience doing research through the lens of firm-level data from administrative records, economic census and firm surveys in developing countries to estimate productivity, market power, monopsony power, and to quantify misallocation of resources.
 > 
-> Broad expertise on the evaluation of industrial policies that lessens the misallocation of production factors, policies that promote innovation, technology adoption, productivity, digital inclusion, and firm's resilience to supply disruptions. Specialized in the determinants of firm’s productivity, and their participation in Global Value Chains. 
+> My broad expertise is on the evaluation of industrial policies that lessens the misallocation of production factors, policies that promote innovation, technology adoption, productivity, digital inclusion, and firm's resilience to supply disruptions. Specialized in the determinants of firm’s productivity, and their participation in Global Value Chains. 
 
 
 Mexican government work experience: 3 years and 8 months
