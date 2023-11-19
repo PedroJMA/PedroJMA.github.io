@@ -133,7 +133,7 @@ twice as likely to find a job compared to those not in the program (46.2% vs 23.
 Establishments over 20 years of age in Mexico stop growing and their productivity stagnates compared to younger establishments (Hsieh-Klenow, 2014). What are the factors that limit the growth of manufacturing establishments in Mexico? This paper analyzes the effect of distortions or frictions in the allocation of capital on the growth profile of Mexican manufacturing establishments. 
 
 2012
-: Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", Estudios Económicos 2012.
+: Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", **Estudios Económicos 2012**.
 This paper decomposes the regional effects of resource misallocation on aggregate total factor productivity (TFP), as a variant of the Hsieh-Klenow (2009) model. Using establishment level data from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains.
 
 **Computer skills**: STATA, Jupyter, R, Julia, Python.
