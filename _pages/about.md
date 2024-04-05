@@ -39,10 +39,10 @@ Aug'19-Nov'20 : **Chief of Economic Advisors**, Ministry of Economy, Mexico.
 I provided intellectual leadership contributing to the design, evaluation, coordination and implementation of main public policies in Mexico by Vice Minister of Industry, Commerce and Competitiveness, [Ernesto Acevedo](https://www.worldbank.org/en/about/people/e/ernesto-acevedo). For example, a New Industrial Policy; a new relocation strategy (nearshoring) of global value chains under the T-MEC; public policy recommendations to respond to the economic and health crisis in the aftermath of the Covid-19 outbreaks and coordinating the General Economic Incidence Group to monitor the Mexican economy with high-frequency data (persons, goods and financial markets).
 
 
-WBG consultant experience: 3 years and 2 months
+WBG consultant experience: 3 years and 4 months
 ---------------------------
-Jun'23-Dic'23 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
-Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/mayra-alfaro-de-moran), and vision of Carlos Zafra and Samuel Rosenow, I provided an analytical framework to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. All results are presented in a dashboard: [nearshoring/](https://nearshoring/).  
+Jun'23-March'24 : **Research Assistant** for project Nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
+Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/m/mayra-alfaro-de-moran), and vision of Carlos Zafra and Samuel Rosenow, I provided an analytical framework to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. All results are presented in a dashboard: [nearshoring/](https://nearshoring/).  
 
 
 Feb'21-Feb'23 : **Core team member** of the Firm-level Adoption of Technology (FAT) project, consultant based in Mexico city. 
