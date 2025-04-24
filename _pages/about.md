@@ -18,17 +18,17 @@ redirect_from:
 [pedrojma.github.io](https://pedrojma.github.io/) • Mexico city, Mexico -->
 
 > Hi! welcome to my website. 
-I am an economist with over 12 years of experience in **empirical economic analysis** within the Mexican federal government and leading international organizations (IDB, WBG, UNDP) across Mexico and Washington, DC. 
-
-Proven expertise in leveraging **firm-level data** (administrative records, economic censuses, surveys in developing countries) to estimate **productivity**, **market power**, and **resource misallocation**. 
-
-Extensive experience in evaluating **industrial policies** aimed at enhancing productivity, **innovation**, **technology adoption**, **digital inclusion**, and **firm resilience**. 
-
-Specialized in analyzing the determinants of firm productivity and their engagement in **Global Value Chains**, with recent work providing insights relevant to the ongoing **nearshoring** trends in Latin America. 
-
-Holds Master's degrees in Economics from El Colegio de México and Western University (Canada), with PhD studies in Economics at Western University and UC Davis. 
-
-Strong understanding of **data management** principles relevant to **research data** and potential for **cross-departmental collaboration**.
+> I am an economist with over 12 years of experience in **empirical economic analysis** within the Mexican federal government and leading international organizations (IDB, WBG, UNDP) across Mexico and Washington, DC. 
+>
+>Proven expertise in leveraging **firm-level data** (administrative records, economic censuses, surveys in developing countries) to estimate **productivity**, **market power**, and **resource misallocation**. 
+>
+>Extensive experience in evaluating **industrial policies** aimed at enhancing productivity, **innovation**, **technology adoption**, **digital inclusion**, and **firm resilience**. 
+>
+>Specialized in analyzing the determinants of firm productivity and their engagement in **Global Value Chains**, with recent work providing insights relevant to the ongoing **nearshoring** trends in Latin America. 
+>
+>Holds Master's degrees in Economics from El Colegio de México and Western University (Canada), with PhD studies in Economics at Western University and UC Davis. 
+>
+>Strong understanding of **data management** principles relevant to **research data** and potential for **cross-departmental collaboration**.
 
 Experience in the World Bank Group: 4 years and 7 month
 ---------------------------
