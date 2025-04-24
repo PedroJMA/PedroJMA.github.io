@@ -101,12 +101,11 @@ Academic Experience: 2 years
 Summer'24 - Winter'25
 : **Research Associate** for the research project "Productivity growth in Mexico" by Professors [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh) and [Esteban Rossi-Hansberg](https://rossihansberg.economics.uchicago.edu/). I provided empirical inputs from Mexican economic census 1999-2019, in particular using confidential information I coded business group names using the Levenshtein Edit Distance and to measure market concentration and diversification at product-industry level. University of Chicago. This involved working with **census data**.
 
-\vspace{0.5cm}
 
 Jan'16-Mar'17
 : **Research Assistant** for the research project "[on the identification of production functions and productivity estimation](https://www.journals.uchicago.edu/doi/10.1086/707736) with [David Rivers](https://economics.uwo.ca/people/faculty/d_rivers.html) & Salvador Navarro". Western University, Ontario, Canada. This focused on **productivity estimation**.
 
-\vspace{0.5cm}
+
 
 Summer'11 
 : National Bureau of Economic Research. **Research Assistant** based in Mexico for [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh). I provided empirical inputs (data tabulations, graphs, and other statistical output) using firm-level data from Mexican economic censuses 1998, 2003, and 2008. Reference: Hsieh, Chang-Tai, and Peter J. Klenow. "[The life cycle of plants in India and Mexico](https://academic.oup.com/qje/article-abstract/129/3/1035/1817806)." The Quarterly Journal of Economics 129.3 (2014): 1035-1084. This involved working with **census data**.
@@ -119,24 +118,24 @@ Academic formation
 2018
 : **Master in Economics**, Western University, London Ontario, Canada
 
-\vspace{0.5cm}
+
 
 2014-2018
 : **PhD studies in Economics**, Western University, London Ontario, Canada. 
 Specialized in **empirical industrial organization**, **international trade** and **labor markets**.
 
-\vspace{0.5cm}
+
 
 2012-2013
 : **PhD studies in Economics**, University of California in Davis, USA.
 
-\vspace{0.5cm}
+
 
 2002-2004
 : **Master in Economics**, El Colegio de México, Mexico City, Mexico. 
 Specialized in **quantitative and econometric methods**. 
 
-\vspace{0.5cm}
+
 
 1998-2002
 : **B.A. in Economics**, Universidad Nacional Autónoma de México, Mexico City, Mexico.
@@ -164,7 +163,7 @@ Establishments over 20 years of age in Mexico stop growing and their **productiv
 This paper decomposes the regional effects of **resource misallocation** on **aggregate total factor productivity** (TFP), as a variant of the Hsieh-Klenow (2009) model. Using **establishment level data** from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. 
 <!-- The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains. -->
 
-\vspace{0.5cm}
+
 
 **Computer skills**: STATA, Jupyter, R, Julia, Python.These are relevant for **data management** and **data analysis**.
 
