@@ -63,11 +63,11 @@ I provided intellectual leadership contributing to the design, evaluation, coord
 Experience in the Inter-American Development Bank: 6 years and 4 months
 --------------
 
-Aug'13-Apr'14: **Research Assistant** for the Vice Presidency for Sector and Knowledge (VPS) based in Mexico city. Under the leadership of [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), I performed empirical research for the project “Productividad, informalidad, ilegalidad y tama$\~{n}$o de los establecimientos” using micro data from Mexican Economic Census 1998, 2003 and 2008. This consultancy contributed to the IDB flagship report [Under-Rewarded Efforts: The Elusive Quest for Prosperity in Mexico](https://flagships.iadb.org/es/esfuerzos-mal-recompensados) This involved working with **census data**.
+Aug'13-Apr'14: **Research Assistant** for the Vice Presidency for Sector and Knowledge (VPS) based in Mexico city. Under the leadership of [Santiago Levy](https://www.brookings.edu/people/santiago-levy/), I performed empirical research for the project “Productividad, informalidad, ilegalidad y tamaño de los establecimientos” using micro data from Mexican Economic Census 1998, 2003 and 2008. This consultancy contributed to the IDB flagship report [Under-Rewarded Efforts: The Elusive Quest for Prosperity in Mexico](https://flagships.iadb.org/es/esfuerzos-mal-recompensados) This involved working with **census data**.
 
 
 Sep'11-Jun'12: **Research Assistant** for CID/CME based in Mexico city. 
-Under the direction of [J. Ernesto L$\'{o}$pez-C$\'{o}$rdova](https://www.worldbank.org/en/about/people/e/ernesto-lopez-cordova), we analyze the effects of financial access in manufacturing, retail and services sectors in Mexico, and its impact on **aggregate productivity**. Using **establishment level data** from the economic census and with emphasis on the regional allocation of the factors, we seek to contribute to the IDB’s policy dialogue with federal states in Mexico. **Empirical research** project: "Productividad, cambio estructural y acceso al financiamiento en M$\'{e}$xico". This involved working with **census data**.
+Under the direction of [J. Ernesto López-Córdova](https://www.worldbank.org/en/about/people/e/ernesto-lopez-cordova), we analyze the effects of financial access in manufacturing, retail and services sectors in Mexico, and its impact on **aggregate productivity**. Using **establishment level data** from the economic census and with emphasis on the regional allocation of the factors, we seek to contribute to the IDB’s policy dialogue with federal states in Mexico. **Empirical research** project: "Productividad, cambio estructural y acceso al financiamiento en México". This involved working with **census data**.
 
 
 Feb'10-Aug'11: **Research Assistant** for VPS based in Mexico city. 
@@ -81,7 +81,7 @@ Research assistant for the project “Social security and **resource misallocati
 
 
 Apr'08-Jul'08: **Research Assistant** for RES/VPS based in Washington, DC. 
-Under the direction of Carmen Pag$\'{e}$s-Serra and using [Mexican Economic Census](https://www.inegi.org.mx/programas/ce/2019/) 1989, 1994, 1999 and 2004, INEGI, I estimated productivity measures (growth accounting) by firm size, state and selected sectors; and its decomposition by shift & share analysis. Under the leadership of Santiago Levy Algazi I explored the relationship between social programs, informality and economic growth in Mexico. This involved working with **census data**.
+Under the direction of Carmen Pagés-Serra and using [Mexican Economic Census](https://www.inegi.org.mx/programas/ce/2019/) 1989, 1994, 1999 and 2004, INEGI, I estimated productivity measures (growth accounting) by firm size, state and selected sectors; and its decomposition by shift & share analysis. Under the leadership of Santiago Levy Algazi I explored the relationship between social programs, informality and economic growth in Mexico. This involved working with **census data**.
 
 
 Sep'05-Jun'07: **Research Fellow** for the Integration and Trade Department, based in Washington, DC. 
@@ -89,77 +89,63 @@ Performing **empirical research** in trade and economic integration. Research to
 
 Experience in the United Nations Development Programme
 ---------------
-Winter'09
-: Consultancy for RBLAC. 
-**Research Assistant** on the empirical application of the Human Development Index adjusted by inequality under the leadership of [Luis Felipe L$\'{o}$pez-Calva](https://www.worldbank.org/en/about/people/l/luis-felipe-lopez-calva), [Sabina Alkire](https://ophi.org.uk/sabina-alkire/) and [James E. Foster](https://elliott.gwu.edu/james-foster). Applying the methodology developed Foster, L$\'{o}$pez-Calva, Szekely ([J Hum Dev, 2005](https://doi.org/10.1080/1464988052000342220)) and using Demographic and Health Surveys for selected countries (Egypt, India, Indonesia, Nigeria and Pakistan), I contributed to the technical report on multidimensional poverty and inequality for the [Human Development Report 2010](https://hdr.undp.org/content/human-development-report-2010). This involved **data analysis**.
+Winter'09 : Consultancy for RBLAC. 
+**Research Assistant** on the empirical application of the Human Development Index adjusted by inequality under the leadership of [Luis Felipe López-Calva](https://www.worldbank.org/en/about/people/l/luis-felipe-lopez-calva), [Sabina Alkire](https://ophi.org.uk/sabina-alkire/) and [James E. Foster](https://elliott.gwu.edu/james-foster). Applying the methodology developed Foster, López-Calva, Szekely ([J Hum Dev, 2005](https://doi.org/10.1080/1464988052000342220)) and using Demographic and Health Surveys for selected countries (Egypt, India, Indonesia, Nigeria and Pakistan), I contributed to the technical report on multidimensional poverty and inequality for the [Human Development Report 2010](https://hdr.undp.org/content/human-development-report-2010). This involved **data analysis**.
 
 
 
 Academic Experience: 2 years
 ---------------
 
-Summer'24 - Winter'25
-: **Research Associate** for the research project "Productivity growth in Mexico" by Professors [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh) and [Esteban Rossi-Hansberg](https://rossihansberg.economics.uchicago.edu/). I provided empirical inputs from Mexican economic census 1999-2019, in particular using confidential information I coded business group names using the Levenshtein Edit Distance and to measure market concentration and diversification at product-industry level. University of Chicago. This involved working with **census data**.
+Summer'24 - Winter'25 : **Research Associate** for the research project "Productivity growth in Mexico" by Professors [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh) and [Esteban Rossi-Hansberg](https://rossihansberg.economics.uchicago.edu/). I provided empirical inputs from Mexican economic census 1999-2019, in particular using confidential information I coded business group names using the Levenshtein Edit Distance and to measure market concentration and diversification at product-industry level. University of Chicago. This involved working with **census data**.
 
 
-Jan'16-Mar'17
-: **Research Assistant** for the research project "[on the identification of production functions and productivity estimation](https://www.journals.uchicago.edu/doi/10.1086/707736) with [David Rivers](https://economics.uwo.ca/people/faculty/d_rivers.html) & Salvador Navarro". Western University, Ontario, Canada. This focused on **productivity estimation**.
+Jan'16-Mar'17 : **Research Assistant** for the research project "[on the identification of production functions and productivity estimation](https://www.journals.uchicago.edu/doi/10.1086/707736) with [David Rivers](https://economics.uwo.ca/people/faculty/d_rivers.html) & Salvador Navarro". Western University, Ontario, Canada. This focused on **productivity estimation**.
 
 
 
-Summer'11 
-: National Bureau of Economic Research. **Research Assistant** based in Mexico for [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh). I provided empirical inputs (data tabulations, graphs, and other statistical output) using firm-level data from Mexican economic censuses 1998, 2003, and 2008. Reference: Hsieh, Chang-Tai, and Peter J. Klenow. "[The life cycle of plants in India and Mexico](https://academic.oup.com/qje/article-abstract/129/3/1035/1817806)." The Quarterly Journal of Economics 129.3 (2014): 1035-1084. This involved working with **census data**.
+Summer'11 : National Bureau of Economic Research. **Research Assistant** based in Mexico for [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh). I provided empirical inputs (data tabulations, graphs, and other statistical output) using firm-level data from Mexican economic censuses 1998, 2003, and 2008. Reference: Hsieh, Chang-Tai, and Peter J. Klenow. "[The life cycle of plants in India and Mexico](https://academic.oup.com/qje/article-abstract/129/3/1035/1817806)." The Quarterly Journal of Economics 129.3 (2014): 1035-1084. This involved working with **census data**.
 
 
 
 Academic formation
 --------------------------------
 
-2018
-: **Master in Economics**, Western University, London Ontario, Canada
+2018 : **Master in Economics**, Western University, London Ontario, Canada
 
 
 
-2014-2018
-: **PhD studies in Economics**, Western University, London Ontario, Canada. 
+2014-2018 : **PhD studies in Economics**, Western University, London Ontario, Canada. 
 Specialized in **empirical industrial organization**, **international trade** and **labor markets**.
 
 
 
-2012-2013
-: **PhD studies in Economics**, University of California in Davis, USA.
+2012-2013 : **PhD studies in Economics**, University of California in Davis, USA.
 
 
 
-2002-2004
-: **Master in Economics**, El Colegio de México, Mexico City, Mexico. 
+2002-2004 : **Master in Economics**, El Colegio de México, Mexico City, Mexico. 
 Specialized in **quantitative and econometric methods**. 
 
 
 
-1998-2002
-: **B.A. in Economics**, Universidad Nacional Autónoma de México, Mexico City, Mexico.
+1998-2002 : **B.A. in Economics**, Universidad Nacional Autónoma de México, Mexico City, Mexico.
 
-\newpage 
 
 Publications and work in progress
 --------------------------------
 
-2024 
-: Martínez Alanis, P.J., Samuel Rosenow, and Carlos Zafra "**Nearshoring Opportunities in Latin America**", Mimeo. 
+2024  : Martínez Alanis, P.J., Samuel Rosenow, and Carlos Zafra "**Nearshoring Opportunities in Latin America**", Mimeo. 
 This note lays out the **analytical framework** used to identify **nearshoring** potential in Mexico, Central American countries , Colombia and Peru. 
 
-2021
-: [El Efecto del Programa "Jóvenes Construyendo el Futuro (JCF)" durante la Pandemia](https://www.gob.mx/conasami/documentos/el-efecto-del-programa-jovenes-construyendo-el-futuro-durante-la-pandemia-283604), Conasami
+2021 : [El Efecto del Programa "Jóvenes Construyendo el Futuro (JCF)" durante la Pandemia](https://www.gob.mx/conasami/documentos/el-efecto-del-programa-jovenes-construyendo-el-futuro-durante-la-pandemia-283604), Conasami
 This paper evaluates the employment program JCF. On average, program graduates have
 twice as likely to find a job compared to those not in the program (46.2% vs 23.6%) during the Covid-19 pandemic. This involved **data analysis**.
 
-2020
-: Martínez Alanis, P.J. "Growth constraints in the Mexican manufacturing establishments", Mimeo. 
+2020 : Martínez Alanis, P.J. "Growth constraints in the Mexican manufacturing establishments", Mimeo. 
 Establishments over 20 years of age in Mexico stop growing and their **productivity** stagnates compared to younger establishments (Hsieh-Klenow, 2014). What are the factors that limit the growth of manufacturing establishments in Mexico? This paper analyzes the effect of distortions or frictions in the allocation of capital on the growth profile of Mexican manufacturing establishments. This involved **empirical analysis**.
 
-2012
-: Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", Estudios Económicos 2012.
+2012 : Martínez Alanis, P.J."[Distorsiones regionales en la asignación de recursos y productividad de las manufacturas en México](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/96)", Estudios Económicos 2012.
 This paper decomposes the regional effects of **resource misallocation** on **aggregate total factor productivity** (TFP), as a variant of the Hsieh-Klenow (2009) model. Using **establishment level data** from the 2004 Mexican Economic Census, I calculate the potential regional TFP gains in Manufacturing. 
 <!-- The results suggest that: (i) capital misallocation is the primary source of regional misallocation in the sector; and (ii) resource misallocation within regions is the most important component in manufacturing TFP gains. -->
 
