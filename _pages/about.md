@@ -141,7 +141,7 @@ Specialized in **quantitative and econometric methods**.
 1998-2002 : **B.A. in Economics**, Universidad Nacional Autónoma de México, Mexico City, Mexico.
 
 
-Publications and work in progress
+Publications and works in progress
 --------------------------------
 2025 : Arias Vazquez, F.J; Choudhary, R; and Martínez Alanis, P.J. "**Welfare Analysis of a Zero VAT Rate versus Cash Transfers in Mexico**". Working Paper.
 This analysis compares the welfare implications of a zero VAT rate policy on basic goods against a direct cash transfer program. 
