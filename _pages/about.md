@@ -17,7 +17,7 @@ redirect_from:
 <!-- • (+52) 55-5403-1937 • 
 [pedrojma.github.io](https://pedrojma.github.io/) • Mexico city, Mexico -->
 
-> Hi! welcome to my website. 
+<!-- > Hi! welcome to my website. 
 > I am an economist with over 12 years of experience in **empirical economic analysis** within the Mexican federal government and leading international organizations (IDB, WBG, UNDP) across Mexico and Washington, DC. 
 >
 >Proven expertise in leveraging **firm-level data** (administrative records, economic censuses, surveys in developing countries) to estimate **productivity**, **market power**, and **resource misallocation**. 
@@ -28,18 +28,27 @@ redirect_from:
 >
 >Holds Master's degrees in Economics from El Colegio de México and Western University (Canada), with PhD studies in Economics at Western University and UC Davis. 
 >
->Strong understanding of **data management** principles relevant to **research data** and potential for **cross-departmental collaboration**.
+>Strong understanding of **data management** principles relevant to **research data** and potential for **cross-departmental collaboration**. -->
+
+> Economist with over 12 years of experience focused on the analysis and monitoring of the Mexican economy, collaborating with the federal government and key international organizations, including the IDB, World Bank, and UNDP.
+>
+>My work combines conjunctural macroeconomic analysis with empirical microeconomic research, leveraging firm-level data (economic censuses, administrative records) to estimate productivity, market power, and resource allocation.
+>
+>I have extensive experience in the design and evaluation of industrial public policies, generating evidence to inform strategic documents and support the Bank's financial and non-financial operations in the country. My recent analysis has focused on the determinants of firm participation in Global Value Chains and the opportunities of the nearshoring phenomenon for Mexico and the region.
+>
+>This expertise is grounded in a strong academic foundation, including two Master's degrees in Economics (El Colegio de México, Western University) and doctoral studies with a specialization in quantitative methods.
+
 
 Experience in the World Bank Group: 4 years and 7 month
 ---------------------------
-July'24 - April'25 : **International consultant** for the project Effective domestic revenue  mobilization for inclusive growth to estimate a micro simulation model of taxes and other fiscal policy tools for the Fiscal Policy and Analysis Directorate of the Ministry of Public Finance of Guatemala. 
+July'24 - June'25 : **International consultant** for the project Effective domestic revenue  mobilization for inclusive growth to estimate a micro simulation model of taxes and other fiscal policy tools for the Fiscal Policy and Analysis Directorate of the Ministry of Public Finance of Guatemala. 
 
 
 Jun'23-June'24 : **Research Associate** to estimate the potential exports and investments derived from the nearshoring in Latin America. Consultancy for LAC Creating Markets Advisory IFC, based in Mexico city. 
 Under the team leadership of [Mayra Alfaro de Morán](https://blogs.worldbank.org/es/team/m/mayra-alfaro-de-moran) and Carlos Zafra and Samuel Rosenow. I provided an **analytical framework** to estimate nearshoring opportunities in Mexico, Central American countries, Colombia and Peru. 
 
 
-Feb'21-Feb'23 : **Core team member** of the Firm-level Adoption of Technology (FAT) project, consultant based in Mexico city. 
+Feb'21-Feb'23 : **Core Team Member** of the Firm-level Adoption of Technology (FAT) project, consultant based in Mexico city. 
 Under the vision and leadership of [Xavier Cirera](https://blogs.worldbank.org/team/xavier-cirera), [Marcio Cruz](https://blogs.worldbank.org/team/marcio-cruz) and Diego Comin, I supported through the implementation of the Firm-level Adoption of Technology (FAT) survey in developing countries, preparation of the questionnaire, **quality checks**, **data management** and **data analysis** for the NBER WP paper ["Anatomy of Technology in the Firm"](https://www.nber.org/papers/w28080) and in the flagship report [Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries](https://openknowledge.worldbank.org/server/api/core/bitstreams/d5d4d6f5-054c-5266-aa89-4e78ad5dbbe0/content). This involved working with **firm-level data**.
 
 Jul'07-Feb'08: **Research Assistant** for the Enterprise Analysis Unit, IFC. 
@@ -134,6 +143,10 @@ Specialized in **quantitative and econometric methods**.
 
 Publications and work in progress
 --------------------------------
+2025 : Arias Vazquez, F.J; Choudhary, R; and Martínez Alanis, P.J. "**Welfare Analysis of a Zero VAT Rate versus Cash Transfers in Mexico**". Working Paper.
+This analysis compares the welfare implications of a zero VAT rate policy on basic goods against a direct cash transfer program. 
+Using data from Mexico's 2022 National Income and Expenditure Household Survey (ENIGH), the model estimates a demand system for low- and high-income households to recover indirect utility functions. 
+The note identifies the set of cash transfer amounts and distributional weights that would make the policy switch welfare-enhancing for society by offsetting efficiency losses. 
 
 2024  : Martínez Alanis, P.J., Samuel Rosenow, and Carlos Zafra "**Nearshoring Opportunities in Latin America**", Mimeo. 
 This note lays out the **analytical framework** used to identify **nearshoring** potential in Mexico, Central American countries , Colombia and Peru. 
