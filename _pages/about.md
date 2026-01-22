@@ -12,12 +12,12 @@ I am a **Senior Economist** with over 12 years of experience in **economic forec
 
 This expertise is grounded in a strong academic foundation, including two **Master's degrees** in Economics (El Colegio de México, Western University) and **doctoral studies** with a specialization in **quantitative methods**.
 
-Currently, I work as an **International Consultant for the World Bank**, developing microsimulation models for fiscal policy in Central America. I am also a **Research Associate at the University of Chicago** (working with Profs. Chang-Tai Hsieh and Esteban Rossi-Hansberg) and previously contributed to the **IFC** on analyzing **nearshoring** opportunities in Latin America.
+Currently, I work as an **International Consultant for the World Bank**, developing microsimulation models for fiscal policy in Central America. I am also a **Research Associate at the University of Chicago** (working with Profs. Chang-Tai Hsieh and Esteban Rossi-Hansberg) and recently contributed to the **IFC** on analyzing **nearshoring** opportunities in Latin America.
 
 Previously, I served as **Chief Economist** at the National Commission of Minimum Wages (**Conasami**) in Mexico. In this role, I led the production of monthly macroeconomic forecasts and sectoral analyses to guide wage policy during a period of historic increases. I also served as **Coordinator of Economic Advisors** at the Ministry of Economy, monitoring high-frequency data during the Covid-19 crisis.
 
 My research interests include:
-* **Macroeconomic Forecasting & Sectoral Analysis**
+* **Macroeconomic/Regional Forecasting & Sectoral Analysis**
 * **Industrial Organization & Firm Dynamics**
 * **Big Data & Machine Learning for Public Policy**
 * **Labor Markets & Minimum Wages**
